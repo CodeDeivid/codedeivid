@@ -5,7 +5,7 @@
 <p align="center">❤️ Sou um estudante de front-end e estou cursando análise e desenvolvimento de sistemas.<br><strong>Especializo-me como desenvolvedor React</strong> <strong>e estou em busca de oportunidades para aplicar minha paixão pela programação</strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=52% align="center" src="https://github-readme-streak-stats-flame-kappa.vercel.app?user=codedeivid&theme=dracula&mode=weekly" />
+<img width=53% align="center" src="https://github-readme-streak-stats-flame-kappa.vercel.app?user=codedeivid&theme=dracula&mode=weekly" />
 <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedeivid&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
  </div>
  
