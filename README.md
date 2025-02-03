@@ -1,10 +1,4 @@
 <div align="center">
-  <img width="100%" src="https://github.com/CodeDeivid/codedeivid/blob/master/banner.png?raw=true" />
-</div>
-
-&nbsp;
-
-<div align="center">
   <img width="54%" src="https://github-readme-streak-stats-flame-kappa.vercel.app?user=codedeivid&theme=dracula&mode=weekly" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedeivid&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
 </div>
