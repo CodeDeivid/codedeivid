@@ -7,7 +7,7 @@
 
 ### ⏳ Estatísticas de Código
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=CodeDeivid&theme=dracula&hide_border=true&layout=compact" />
+  [![wakatime](https://wakatime.com/badge/user/018cac80-654b-42eb-ac67-dc5a976d6c86.svg)](https://wakatime.com/@018cac80-654b-42eb-ac67-dc5a976d6c86)
 </div>
 
 &nbsp;
