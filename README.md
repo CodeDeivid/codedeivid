@@ -7,7 +7,7 @@
 
 ### ⏳ Estatísticas de Código
 <div align="center">
-  [![wakatime](https://wakatime.com/badge/user/018cac80-654b-42eb-ac67-dc5a976d6c86.svg)](https://wakatime.com/@018cac80-654b-42eb-ac67-dc5a976d6c86)
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=CodeDeivid&theme=dracula&hide_border=true&layout=compact" />
 </div>
 
 &nbsp;
@@ -47,8 +47,8 @@
 
 &nbsp;
 
-<div align="left">
-  [![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Computador iuriCode">
 </div>
 
 &nbsp;
