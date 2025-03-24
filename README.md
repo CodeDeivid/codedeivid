@@ -62,6 +62,15 @@
 
 &nbsp;
 
+## 📄 Meu CV
+<div align="center">
+  <a href="https://drive.google.com/file/d/1GCYE0JcJI1ZlZBQ-v8aIsOIOMrKEsIsp/view?usp=sharing" target="_blank">
+    <img src="https://i.imgur.com/J6fyjDT.jpeg" alt="Miniatura do CV" width="400px"/>
+  </a>
+</div>
+
+&nbsp;
+
 ## 📞 Contato
 <div align="center">
   <a href="mailto:contato.deividmickael@gmail.com">
