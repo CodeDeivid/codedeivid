@@ -30,7 +30,7 @@
 
 Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web escaláveis, APIs RESTful e interfaces responsivas. Foco em princípios SOLID, Clean Code e experiência do usuário, impactando mais de 350 mil usuários com soluções eficientes.
 
-- 🔭 Atualmente trabalhando na [Waseller](https://waseller.com.br), desenvolvendo soluções de automação para WhatsApp
+- 🔭 Atualmente trabalhando em um projeto privado, desenvolvendo soluções de automação para WhatsApp
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas na UNINTER
 - 💬 Pergunte-me sobre React, Node.js, TypeScript e arquitetura de software
 - 📫 Disponível para trabalho remoto, híbrido ou presencial
