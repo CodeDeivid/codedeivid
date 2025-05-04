@@ -109,7 +109,7 @@ Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web
 ## 📄 Meu CV
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1GCYE0JcJI1ZlZBQ-v8aIsOIOMrKEsIsp/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1hB5831c-fu0rdlppWuKHARG4tY0PKdoz/view?usp=sharing" target="_blank">
     <img src="https://i.imgur.com/J6fyjDT.jpeg" alt="Miniatura do CV" width="300px"/>
   </a>
 </div>
