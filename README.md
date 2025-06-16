@@ -6,7 +6,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8F0D87&center=true&vCenter=true&random=false&width=435&lines=TypeScript+%7C+React+%7C+Node.js;Next.js+%7C+NestJS+%7C+MongoDB;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
   
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deivid-micael-santos-silva/)
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:contato.deividmickael@gmail.com)
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:deividmickael@gmail.com)
   [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5531982452175)
   [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/codedeivid)
 </div>
@@ -28,11 +28,12 @@
 
 ## 💫 Sobre Mim
 
-Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web escaláveis, APIs RESTful e interfaces responsivas. Foco em princípios SOLID, Clean Code e experiência do usuário, impactando mais de 350 mil usuários com soluções eficientes.
+Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web escaláveis, APIs RESTful e interfaces responsivas. Trabalho no desenvolvimento de uma plataforma SaaS de automação e chatbots para WhatsApp que impacta mais de 350 mil usuários, aplicando princípios SOLID, Clean Code e foco na experiência do usuário.
 
-- 🔭 Atualmente trabalhando em um projeto privado, desenvolvendo soluções de automação para WhatsApp
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas na UNINTER
-- 💬 Pergunte-me sobre React, Node.js, TypeScript e arquitetura de software
+- 🔭 Desenvolvedor Full Stack na **waTools** - Plataforma de automação para WhatsApp
+- 🌱 Cursando **Engenharia de Software** na UNINTER
+- 💼 Desenvolvedor Back-End voluntário na **SouJunior** - Projetos Care4You e Solicite-me
+- 💬 Pergunte-me sobre React, Node.js, TypeScript, NestJS e arquitetura de software
 - 📫 Disponível para trabalho remoto, híbrido ou presencial
 
 <div align="center">
@@ -98,13 +99,28 @@ Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web
   </a>
 </div>
 
-### 📚 Certificações e Educação
+### 🔥 Experiência Profissional
 
-- 🎓 Análise e Desenvolvimento de Sistemas - UNINTER (Em andamento)
-- 📜 The Odin Project - Desenvolvimento Web
-- 📜 Origamid - UI/UX e Tecnologias Web
-- 📜 RocketSeat: NLW Journey - Node.js, TypeScript, React.js
-- 📜 FreeCodeCamp: Responsive Web Design
+**waTools** - *Desenvolvedor Full Stack* | Abril 2024 - Presente
+- Desenvolvimento da plataforma SaaS **Sender Up** com React.js, Node.js e MongoDB
+- Impacto direto em mais de **350 mil usuários** ativos
+- Criação de workflows para chatbots e sistema de follow-up automatizado
+- Refatoração de CRM e otimização de performance (50% de melhoria com Zustand)
+- Integração de comunicação em tempo real com Socket.io e WebSockets
+
+**SouJunior** - *Desenvolvedor Back-End Voluntário* | Janeiro 2025 - Presente
+- Desenvolvimento de microsserviços com **NestJS**, **Fastify** e **TypeScript**
+- Projetos: **Care4You** (plataforma médica) e **Solicite-me** (marketplace)
+- Implementação de autenticação JWT e integração com APIs externas
+- Otimização de consultas SQL com redução de 30% no tempo de resposta
+
+### 📚 Educação & Certificações
+
+- 🎓 **Engenharia de Software** - UNINTER (2024-2028) - *Em andamento*
+- 📜 **Responsive Web Design** - FreeCodeCamp
+- 📜 **NLW Journey** - RocketSeat (Node.js, TypeScript, React.js)
+- 📜 **Origamid** - UI/UX e Tecnologias Web
+- 📜 **Cross-Site Script Inclusion** - ACTION Talents
 
 ## 📄 Meu CV
 
@@ -117,5 +133,4 @@ Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer
