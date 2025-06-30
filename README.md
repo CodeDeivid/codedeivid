@@ -170,8 +170,6 @@ console.log("🚀 Pronto para novos desafios!");
 | **🛒 NextCommerce** | Next.js, TypeScript, TailwindCSS | [🔗 Ver Demo](https://codedeivid-nextcommerce.vercel.app) | ✅ **CONCLUÍDO** | E-commerce Completo |
 | **🏥 Care4You** | NestJS, PostgreSQL, Prisma, JWT | 🔒 Repo Privado | 🚧 **DESENVOLVIMENTO** | Plataforma Médica |
 | **🛍️ Solicite-me** | Fastify, MongoDB, TypeScript | 🔒 Repo Privado | 🚧 **DESENVOLVIMENTO** | Marketplace B2B |
-| **📊 Analytics Dashboard** | React, Chart.js, Node.js | 🔒 Em Breve | 📋 **PLANEJAMENTO** | Business Intelligence |
-
 </div>
 
 ---
@@ -181,7 +179,7 @@ console.log("🚀 Pronto para novos desafios!");
 <div align="center">
 
 ### 🚀 **waTools** - *Desenvolvedor Full Stack*
-**📅 Abril 2024 - Presente** | **📍 Remoto**
+**📅 Abril 2024 - Presente** | **📍 Presencial**
 
 <div align="left" style="margin: 20px;">
 
@@ -239,8 +237,7 @@ console.log("🚀 Pronto para novos desafios!");
 | 🌟 **FreeCodeCamp** | Responsive Web Design | 2023 | ✅ **CONCLUÍDO** |
 | 🚀 **Rocketseat** | NLW Journey (Node.js + React) | 2024 | ✅ **CONCLUÍDO** |
 | 🎨 **Origamid** | UI/UX Design & Web Technologies | 2023 | ✅ **CONCLUÍDO** |
-| 🔒 **ACTION Talents** | Cross-Site Script Inclusion | 2024 | ✅ **CONCLUÍDO** |
-| 📊 **MongoDB University** | MongoDB Developer Path | 2024 | ✅ **CONCLUÍDO** |
+| 🔒 **ACTION Talents** | Cross-Site Script Inclusion | 2025 | ✅ **CONCLUÍDO** |
 
 </div>
 
@@ -252,16 +249,16 @@ console.log("🚀 Pronto para novos desafios!");
 
 ### 🏆 **METAS PROFISSIONAIS**
 
-| 🎯 **Meta** | 📅 **Prazo** | 📊 **Progresso** |
-|:-----------:|:------------:|:----------------:|
-| 🥇 **Certificação AWS Solutions Architect** | Q2 2025 | ![20%](https://progress-bar.dev/20) |
-| 🚀 **Contribuir para 5 projetos Open Source** | Q3 2025 | ![40%](https://progress-bar.dev/40) |
-| 🐳 **Dominar Kubernetes & Docker Swarm** | Q4 2025 | ![10%](https://progress-bar.dev/10) |
-| 📝 **Publicar 12 artigos técnicos** | Q4 2025 | ![25%](https://progress-bar.dev/25) |
-| 👥 **Liderar equipe de 3-5 desenvolvedores** | Q1 2026 | ![0%](https://progress-bar.dev/0) |
-| 🏗️ **Especializar em Microsserviços** | Q2 2026 | ![30%](https://progress-bar.dev/30) |
-| 📊 **Implementar Observabilidade Completa** | Q3 2026 | ![15%](https://progress-bar.dev/15) |
-| 🎨 **Aprofundar em Design Systems** | Q4 2026 | ![20%](https://progress-bar.dev/20) |
+| 🎯 **Meta**                                         |
+|:---------------------------------------------------|
+| 🥇 **Certificação AWS Solutions Architect**         |
+| 🚀 **Contribuir para 5 projetos Open Source**       |
+| 🐳 **Dominar Kubernetes & Docker Swarm**            |
+| 📝 **Publicar 12 artigos técnicos**                 |
+| 👥 **Liderar equipe de 3-5 desenvolvedores**        |
+| 🏗️ **Especializar em Microsserviços**               |
+| 📊 **Implementar Observabilidade Completa**         |
+| 🎨 **Aprofundar em Design Systems**                 |
 
 </div>
 
@@ -332,16 +329,6 @@ console.log("🚀 Pronto para novos desafios!");
 - 📚 **Compartilhamento de conhecimento**
 - 🤝 **Colaborações em open source**
 - ☕ **Um bom papo sobre tecnologia**
-
----
-
-<img src="https://img.shields.io/badge/📧_deividmickael@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/📱_+55_(31)_98245--2175-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-<img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-### 📍 **Localização:** Ipatinga, MG - Brasil 🇧🇷
-### ⏰ **Timezone:** UTC-3 (Brasília)
-### 🗣️ **Idiomas:** Português (Nativo) | Inglês (Intermediário)
 
 </div>
 
