@@ -131,7 +131,7 @@ Trabalho com tecnologias modernas como **Keycloak**, **TanStack Query**, **Zusta
 <div align="left" style="margin: 20px;">
 
 **🎯 PRINCIPAIS ENTREGAS:**
-- Desenvolvimento de **plataforma de rede social para agricultores** com **Next.js**, **Bootstrap** e **TypeScript**
+- Desenvolvimento de **plataforma** com **Next.js**, **Bootstrap** e **TypeScript**
 - Implementação de **SSR otimizado**, estratégias avançadas de **SEO** e **paginação server-side**
 - Virtualização de listas para **alta performance** e sistema robusto de **cacheamento**
 - Arquitetura de **autenticação enterprise com Keycloak**, **JWT** e **refresh tokens**
@@ -200,7 +200,7 @@ Trabalho com tecnologias modernas como **Keycloak**, **TanStack Query**, **Zusta
 
 | 🚀 **Projeto** | 💡 **Descrição** | 🛠️ **Stack Principal** | 📊 **Status** |
 |:-------------:|:----------------|:----------------------:|:-------------:|
-| **🌾 Agro Social** | Plataforma de rede social para agricultores com SSR, SEO e Keycloak | Next.js, Bootstrap, TypeScript, TanStack Query | ✅ **PRODUÇÃO** |
+| **PROJETO ANÔNIMO** | Plataforma com SSR, SEO e Keycloak | Next.js, Bootstrap, TypeScript, TanStack Query | ✅ **PRODUÇÃO** |
 | **🔥 Sender Up** | SaaS de automação WhatsApp com chatbots IA e 350k+ usuários | React, Node.js, Zustand, OpenAI, MongoDB | ✅ **PRODUÇÃO** |
 | **🏥 Care4You** | Sistema de gestão hospitalar com microsserviços e geolocalização | NestJS, PostgreSQL, Fastify, PostGIS, Prisma | 🚧 **CONCLUÍDO** |
 | **🛍️ Solicite-me** | Marketplace B2B com arquitetura escalável | NestJS, MongoDB, TypeORM, JWT | 🚧 **CONCLUÍDO** |
