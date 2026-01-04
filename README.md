@@ -24,7 +24,7 @@ Sou **Engenheiro de Software Frontend** com experiência sólida na construção
 
 Atualmente, trabalho em plataformas B2B/B2C complexas, resolvendo desafios de **Server-Side Rendering (SSR)**, **comunicação Real-time (WebSockets)** e **Design Systems**.
 
-*   🔭 **Atualmente:** Frontend Engineer na [CodeFlow Labs](https://codeflow.com.br).
+*   🔭 **Atualmente:** Frontend Engineer na CodeFlow Labs.
 *   🚀 **Impacto:** Escalei um SaaS para **+350k usuários ativos** na Sender Up.
 *   ⚡ **Especialidade:** React Internals, Performance Tuning e Micro-Frontends.
 
