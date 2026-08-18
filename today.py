@@ -41,12 +41,24 @@ def format_plural(unit):
     return 's' if unit != 1 else ''
 
 
-def simple_request(func_name, query, variables):
+def simple_request(func_name, query, variables, retries=3):
     """
     Returns a request, or raises an Exception if the response does not succeed.
+    GitHub's GraphQL API answers with HTTP 200 + partial data + an 'errors' array when a query
+    times out or exceeds resource limits (https://docs.github.com/en/graphql/overview/rate-limits-and-query-limits-for-the-graphql-api),
+    so those responses are retried before the partial data is handed back to the caller.
     """
-    request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS)
-    if request.status_code == 200:
+    for attempt in range(retries):
+        request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS, timeout=60)
+        errors = request.json().get('errors') if request.status_code == 200 else None
+        if request.status_code == 200 and not errors:
+            return request
+        if attempt == retries - 1 or request.status_code not in (200, 502, 503):
+            break
+        print(func_name, 'got an incomplete response, retrying:', errors or request.status_code)
+        time.sleep(float(request.headers.get('retry-after', 2 ** attempt)))
+    if request.status_code == 200: # partial data is better than a failed build; callers skip the null nodes
+        print(func_name, 'is working with partial data:', errors)
         return request
     raise Exception(func_name, ' has failed with a', request.status_code, request.text, QUERY_COUNT)
 
@@ -209,11 +221,13 @@ def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None,
     }'''
     variables = {'owner_affiliation': owner_affiliation, 'login': USER_NAME, 'cursor': cursor}
     request = simple_request(loc_query.__name__, query, variables)
-    if request.json()['data']['user']['repositories']['pageInfo']['hasNextPage']:   # If repository data has another page
-        edges += request.json()['data']['user']['repositories']['edges']            # Add on to the LoC count
-        return loc_query(owner_affiliation, comment_size, force_cache, request.json()['data']['user']['repositories']['pageInfo']['endCursor'], edges)
+    repositories = request.json()['data']['user']['repositories']
+    page_edges = [edge for edge in repositories['edges'] if edge['node'] is not None]
+    if repositories['pageInfo']['hasNextPage']:   # If repository data has another page
+        edges += page_edges                       # Add on to the LoC count
+        return loc_query(owner_affiliation, comment_size, force_cache, repositories['pageInfo']['endCursor'], edges)
     else:
-        return cache_builder(edges + request.json()['data']['user']['repositories']['edges'], comment_size, force_cache)
+        return cache_builder(edges + page_edges, comment_size, force_cache)
 
 
 def cache_builder(edges, comment_size, force_cache, loc_add=0, loc_del=0):
@@ -294,7 +308,9 @@ def stars_counter(data):
     Count total stars in repositories owned by me
     """
     total_stars = 0
-    for node in data: total_stars += node['node']['stargazers']['totalCount']
+    for node in data:
+        if node['node'] is None: continue # ponytail: null node = repo GitHub couldn't resolve for this response
+        total_stars += node['node']['stargazers']['totalCount']
     return total_stars
 
 
